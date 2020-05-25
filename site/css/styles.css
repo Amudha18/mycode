@@ -11,7 +11,7 @@ h1 {
 
 body {
 	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	/*background-color: #FEF5CA;*/
 
 }
 
@@ -45,13 +45,13 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: #FFF000;
 }
 
 #beef {
@@ -59,7 +59,7 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
@@ -73,7 +73,7 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
